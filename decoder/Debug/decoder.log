@@ -1,0 +1,4 @@
+﻿  decoder.cpp
+C:\Users\Никита\source\repos\decoder\decoder\decoder.cpp(179,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Никита\source\repos\decoder\decoder\decoder.cpp(343,27): warning C4018: <: несоответствие типов со знаком и без знака
+  decoder.vcxproj -> C:\Users\Никита\source\repos\decoder\Debug\decoder.exe
